@@ -1,0 +1,7 @@
+/SourceCode/*.opensdf
+/target/OpenGL.bsc
+/target/OpenGL.exe
+/target/OpenGL.pdb
+/SourceCode/temp
+/SourceCode/*.sdf
+/SourceCode/*.user
